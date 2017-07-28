@@ -1,25 +1,14 @@
-<<<<<<< HEAD
 hello, I'm akshayanand
 
 Hello Purva, How are you...I'm just teachin gyou some shit
  i hope you're getting it...
 
 bdjjadbakd
+<<<<<<< HEAD
 
-sahdbkas
-asdahsdsa'dasdhasd's
-ad 
-asdahsdsaasd
-
-HEADsda
-asdahsdsads
-sahdbkasdsa
-das
-ads
-sahdbkassd
-sahdbkassdsa
-asdahsdsasda
-sahdbkassdsasda
 s
 
 ///
+=======
+knfksfs
+>>>>>>> 9016e1474e459229a197bf7b85537438dffa5317
